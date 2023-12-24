@@ -2,23 +2,23 @@ import React from 'react'
 import Cards from './Cards'
 function Cyber() {
     let data=[{
-        title:"8 Different Types of Cybersecurity and Threats Involved",
-        image:"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
-        description:'Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from',
-        source:"https://www.guvi.in/blog/types-of-cybersecurity/"
+        title:"Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+        image:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
+        description:'In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills',
+        source:"https://www.guvi.in/blog/top-non-coding-jobs-in-cybersecurity/"
         
       },
     {
-        title:"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
-        image:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
-        description:'Cybersecurity & Ethical hacking and have been key in making sure that your data online is secure, users are authenticated & your data and privacy concerns are all kept safe.' ,
-        source:"https://www.guvi.in/blog/difference-between-cybersecurity-and-ethical-hacking/"
+        title:"What Is Hacking? Types of Hacking & More",
+        image:"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+        description:'Have you ever wondered what hacking is all about? It’s a big deal in today’s' ,
+        source:"https://www.guvi.in/blog/what-is-hacking/"
     },
     {
-        title:"Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
-        image:"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
-        description:'Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,'
-        ,source:"https://www.guvi.in/blog/coding-for-cybersecurity/"
+        title:"The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
+        image:"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png",
+        description:'There is something fascinating about a lone hacker in black hoodies using a single system'
+        ,source:"https://www.guvi.in/blog/cybersecurity-certifications/"
     }]
   return <div className="container">
        <div className="row">

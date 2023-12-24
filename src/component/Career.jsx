@@ -2,16 +2,16 @@ import React from 'react'
 import Cards from './Cards'
 function Career() {
     let data=[{
-        title:"UI/UX Designer Job Description and Roles & Responsibilities",
-        image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg",
-        description:'UI UX is the abbreviated word that’s been rocking the trend over the years, especially',
-        source:"https://www.guvi.in/blog/ui-ux-designer-roles-and-responsibilities-and-job-description/"
+        title:"Machine Learning Engineer Resume Guide: 11 Important Things To Include!",
+        image:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Machine-Learning-Engineer-Resume-Guide.webp",
+        description:'In today’s tech-driven world, the demand for project managers is higher than before. The workload',
+        source:"https://www.guvi.in/blog/machine-learning-engineer-resume-tips/"
         
       },
     {
         title:"Top 5 IT Jobs for Economics Students",
         image:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp",
-        description:'In today’s digital age, the intersection of economics and technology offers exciting career opportunities for students with a background in economics.',
+        description:'The current technological era is full of competition and those who have profound skillset are',
         source:"https://www.guvi.in/blog/top-it-jobs-for-economics-students/"
     },
     {
